@@ -12,6 +12,6 @@ This script uses the pdfplumber library to extract images from PDF files. It the
 
 ## Requirements
 
-- Python3.x
+- Python 3.x
 - pdfplumber library
 - Pillow library
