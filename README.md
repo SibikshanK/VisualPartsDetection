@@ -1,4 +1,4 @@
-### VisualPartsDetection
+# VisualPartsDetection
 
 ## Introduction:
 
